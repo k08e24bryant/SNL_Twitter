@@ -133,7 +133,7 @@ Inter-community edges :  8.3%
 ### 1. Top 20 Influencers by PageRank
 > Who dominates the COVID-19 Twitter conversation?
 
-![Top 20 Influencers](<img width="1190" height="590" alt="image" src="https://github.com/user-attachments/assets/a4120474-8296-4b31-a3aa-476d7d031095" />)
+![Top 20 Influencers](https://github.com/user-attachments/assets/a4120474-8296-4b31-a3aa-476d7d031095)
 
 > `realdonaldtrump` leads with a PageRank **6x higher** than the second-ranked account. CNN is the only verified account in the top 10.
 
@@ -142,8 +142,8 @@ Inter-community edges :  8.3%
 ### 2. Community Sizes (Louvain)
 > How many users belong to each detected community?
 
-![Community Sizes](<img width="989" height="390" alt="image" src="https://github.com/user-attachments/assets/befecf1b-a747-47a3-896e-742ecf45ca01" />
-)
+![Community Sizes](https://github.com/user-attachments/assets/befecf1b-a747-47a3-896e-742ecf45ca01)
+
 
 > Community 4 (US political cluster) is the largest with 5,919 users — nearly double the size of the second largest community.
 
@@ -152,8 +152,7 @@ Inter-community edges :  8.3%
 ### 3. Sentiment vs. In-degree
 > Does negativity drive reach?
 
-![Sentiment vs In-degree](<img width="858" height="490" alt="image" src="https://github.com/user-attachments/assets/1f98fa80-0c6f-40b2-af8c-7a3ebe05e596" />
-)
+![Sentiment vs In-degree](https://github.com/user-attachments/assets/1f98fa80-0c6f-40b2-af8c-7a3ebe05e596)
 
 > The single bright dot at the top is `realdonaldtrump` — highest in-degree (~4,000), near-neutral sentiment. No clear correlation between negativity and reach was found.
 
@@ -162,8 +161,7 @@ Inter-community edges :  8.3%
 ### 4. Weekly Retweet Edge Volume
 > How did network activity change over time?
 
-![Temporal Edge Growth](<img width="989" height="390" alt="image" src="https://github.com/user-attachments/assets/efacd68b-4203-4502-85fb-1b9c95a86378" />
-)
+![Temporal Edge Growth](https://github.com/user-attachments/assets/efacd68b-4203-4502-85fb-1b9c95a86378)
 
 > Activity peaked in **week 33 (August 10–16)** corresponding to major COVID news events, then declined sharply — confirming the conversation was news-cycle driven.
 
@@ -172,8 +170,7 @@ Inter-community edges :  8.3%
 ### 5. Interactive Network (Pyvis)
 > Top 300 users by PageRank — colored by community, sized by influence.
 
-![Interactive Network](![Uploading image.png…](<img width="1874" height="747" alt="image" src="https://github.com/user-attachments/assets/9d0c23bc-4c42-48f4-8316-be42afd8caee" />
-))
+![Interactive Network](https://github.com/user-attachments/assets/9d0c23bc-4c42-48f4-8316-be42afd8caee)
 
 
 ---
